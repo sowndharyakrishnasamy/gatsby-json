@@ -1,0 +1,28 @@
+{
+    "component":"Blog",
+    "title":"Don’t miss out on our updates",
+    "linkbutton":{
+        "link":"#",
+         "text":"VIEW ALL POSTS"
+    },
+    "cards":[
+        {   
+            "heading":"Blog",
+            "title":"Donors share stories of their COVID-19 response",
+            "imageUrl":"../images/blog.PNG",
+            "link":"#"
+        },
+        {
+            "heading":"Blog",
+            "title":"COVID-19: List of highly rated charities",
+            "imageUrl":"../images/blog.PNG",
+            "link":"#"
+        },
+        {
+            "heading":"Blog",
+            "title":"GivingTuesdayNow a conversation with the organization behind the movement",
+            "imageUrl":"../images/blog.PNG",
+            "link":"#"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "component":"Icon Three Column",
+    "title":"Benefits of a donor-advised fund",
+    "cards":[
+        {
+            "imageUrl":"../images/tax.png",
+            "heading": "Tax-effective",
+            "description":"Contributions to your donor-advised fund are tax-deductible. Donate appreciated assets to maximize the tax benefit."
+        },
+        {
+            "imageUrl":"../images/convient.png",
+            "heading":"Convenient",
+            "description":"Ready to make a contribution? Then it's time to open an account. We provide a step-by-step online guide."
+        },
+        {
+            "imageUrl":"../images/flexibility.png",
+            "heading":"Flexible",
+            "description":"You recommend grants and then craft a legacy plan to ensure your charities are funded beyond your lifetime."
+        }
+    ],
+    "Buttons":[
+        {
+        "type":"primary",
+        "btn":"OPEN AN ACCOUNT",
+        "link":"#"
+        
+    }
+]
+}

@@ -1,0 +1,17 @@
+{
+    "component":"Text with Btn",
+    "title":"Change starts here",
+    "description":"Together, we can change the world through long-term, strategic giving that minimizes your costs and maximizes dollars. While giving to charity can be its own reward, giving through a donor-advised fund makes giving go further.",
+    "imageUrl":"../images/handicon.png",
+    "imageDescription":"Every day with empathy, kindness, and reflection. We are committed to diversity and inclusion within our workplace and a more just and giving world outside.",
+    "subtitle":"What is a donor-advised fund?",
+    "subdescription":"A donor-advised fund (DAF) is a charitable giving account designed exclusively to invest, grow, and give assets to charities for meaningful and lasting impact. Here's how it works: You donate assets into a DAF and recommend how those assets should be invested. Your contribution is tax-deductible and the assets in the DAF grow tax-free. When you're ready, recommend a grant to a charity you care about, and we take care of the rest. Some people call it a giving vehicle. Others call it a philanthropic fund. We call it the most convenient, tax-efficient way to give back.",
+    "Buttons":[
+        {
+            "btn":"LEARN MORE",
+            "link":"#",
+            "type":"primary"
+        }
+    ]
+    
+}

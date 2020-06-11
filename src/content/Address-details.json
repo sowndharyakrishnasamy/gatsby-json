@@ -1,0 +1,23 @@
+{
+    "title" : "Addresses & Hours",
+    "cards":[
+        {
+            "title":"Primary Address",
+            "phonenumber": "",
+            "email":"",
+            "descriptionArray":["Sky", "P.O. Box 9679", "Warwick, RI", "09999-9999"]
+        },
+        {
+            "title":"Overnight & registered mail",
+            "phonenumber": "",
+            "email":"",
+            "descriptionArray":["Sky","2670 Warwick Avenue","Warwick, RI 98765-9876","Fax: 9-876-543-2104"]
+        },
+        {
+            "title":"Hours & Press",
+            "phonenumber": "",
+            "email":"",
+            "descriptionArray":["Weekdays: 8:30 am to 5 pm","Eastern time"]
+        }
+    ]
+}

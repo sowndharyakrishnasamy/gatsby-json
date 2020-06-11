@@ -1,0 +1,23 @@
+{
+    "content": ["In observance of Memorial Day, sky will be closing at 3 p.m. Eastern Time on Friday, May 22, and remain closed on Monday, May 25. All U.S. investment markets will also be closed on Monday, May 25.",
+      "Pending transactions and transaction requests submitted after trade cut-off on Friday, May 22, will be processed on the next available trade date when our office reopens on Tuesday, May 26. Online philanthropic accounts are always available to donors to help facilitate their giving."
+    ],
+    "title": "Check out our FAQs",
+    "descriptionlink": {
+        "content": "Visiting our Frequently Asked Questions is often the easiest way to get your questions answered. Don't see your question? Email us.",
+        "linkPosition":"122,132",
+        "link":"#"
+    },
+    "Buttons":[
+        {
+            "btn":"EMAIL US",
+            "link":"#",
+            "type":"primary"
+        },
+        {
+            "btn":"FAQs",
+            "link":"#",
+            "type":"secondary"
+        }
+    ]
+}

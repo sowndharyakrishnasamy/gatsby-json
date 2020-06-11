@@ -1,0 +1,34 @@
+{
+    "component":"Bg component",
+    "title":"Our philosophy is simple: Low-cost, high quality investments",
+    "description":"We've built our investment philosophy on the principles that have made leader in at-cost investment. Our goals are simple: Keep all-in fees low without sacrificing performance. More growth means more charitable impact over time.",
+    "cards":[
+        {
+            "imageUrl":"../images/portfolio-solutions.png",
+            "title":"Portfolio Solutions",
+            "description":"Too busy to choose investment options? Pre-allocated investments, rebalanced daily by seasoned professionals, may be the right option for you.",
+            "linkbutton":{
+                "link":"#",
+                 "text":"READ MORE"
+            }
+        },
+        {
+            "imageUrl":"../images/portolio-builders.png",
+            "title":"Portfolio Builders",
+            "description":"Interested in building your own charitable portfolio? Then these customized funds, driven by your giving timeline and philanthropic goals, could be a solid choice.",
+            "linkbutton":{
+                "link":"#",
+                 "text":"READ MORE"
+            }
+        },
+        {
+            "imageUrl":"../images/values-driven-investments.png",
+            "title":"Values-driven Investments",
+            "description":"Want to align your personal values with your charitable investments? Choosing from three socially responsible investment options may be what you're looking for.",
+            "linkbutton":{
+                "link":"#",
+                 "text":"READ MORE"
+            }
+        }
+    ]
+}

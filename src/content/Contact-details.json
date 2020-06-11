@@ -1,0 +1,23 @@
+{
+    "title" : "Contact Details",
+    "cards":[
+        {
+            "title":"Donor Services",
+            "phonenumber": "888-999-9999",
+            "email":"donorservice@sky.org",
+            "description":""
+        },
+        {
+            "title":"Professional Advisors",
+            "phonenumber": "888-999-9999",
+            "email":"advisors@sky.org",
+            "description":""
+        },
+        {
+            "title":"Premier Services",
+            "phonenumber": "888-999-9999",
+            "email":"premierservices@sky.org",
+            "description":""
+        }
+    ]
+}

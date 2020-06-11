@@ -1,0 +1,60 @@
+{
+    "linkedin":"Follow us on LinkedIn",
+    "copyright":"© 2020 Sky Endowment Program",
+    "footer1":[
+        {
+            "text":"ABOUT US",
+            "link":"#"
+        },
+        {
+            "text":"CAREERS",
+            "link":"#"
+        },
+        {
+            "text":"FAQS",
+            "link":"#"
+        },
+        {
+            "text":"CONTACT US",
+            "link":"/contact-us"
+        },
+        {
+            "text":"GIVING MATTERS BLOG",
+            "link":"#"
+        },
+        {
+            "text":"NEWS & EVENTS",
+            "link":"#"
+        },
+        {
+            "text":"REQUEST LITERATURE",
+            "link":"#"
+        }
+    ],
+    "footer2":[
+        {
+            "text":"TERMS & CONDITIONS",
+            "link":"#"
+        },
+        {
+            "text":"SITEMAP",
+            "link":"#"
+        },
+        {
+            "text":"FORMS",
+            "link":"#"
+        },
+        {
+            "text":"POLICIES & GUIDELINES",
+            "link":"#"
+        },
+        {
+            "text":"PRIVACY POLICY",
+            "link":"#"
+        },
+        {
+            "text":"COMPANY POLICIES",
+            "link":"#"
+        }
+    ]
+}

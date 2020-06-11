@@ -1,0 +1,10 @@
+{
+    "title":"Are you ready to make an impact?",
+    "Buttons":[
+        {
+        "btn":"YES,I AM",
+        "link":"#",
+        "type":"primary"
+    }
+]
+}
