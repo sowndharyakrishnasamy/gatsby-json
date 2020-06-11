@@ -129,7 +129,7 @@ span.gatsby-resp-image-wrapper{
     letter-spacing: .5px;
 }
 .icon-header img{
-    position:unset !important;
+    position:static !important;
     width:15px !important;
     height:15px !important;
     margin-right:10px !important;
@@ -155,10 +155,10 @@ span.gatsby-resp-image-wrapper{
     padding:8px 0px;
 }
 .menu-header img{
-    width:unset !important;
+    width:auto !important;
 }
 .menu-header .gatsby-resp-image-wrapper,.menu-header span.gatsby-resp-image-wrapper,.menu-header img{
-    position:unset !important;
+    position:static !important;
 }
 .main-menu{
     width:80%;
@@ -257,7 +257,7 @@ span.gatsby-resp-image-wrapper{
     margin-left: -50px;
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */ 
     flex-direction: column;
     padding:0px 50px;
 }
@@ -502,7 +502,7 @@ footer .container-max-width > div{
     padding:0 60px 0px 0px;
 }
 .three-column > div{
-    flex: 1;
+    /* flex: 1; */
     display: flex;
     flex-direction: column;
     position: relative;
@@ -693,7 +693,7 @@ footer .container-max-width > div{
     }
     .home-banner > div > div{
         justify-content: flex-end;
-        height: unset;
+        height: auto;
         width: 100%;
         margin: 0px;
         padding: 30px 30px 0px 30px;
@@ -715,7 +715,7 @@ footer .container-max-width > div{
         justify-content: center;
     }
     .footer-menu >nav{
-        width:unset;
+        width:auto;
     }
     footer p:nth-of-type(1) > a{
         justify-content: center;
@@ -743,14 +743,14 @@ footer .container-max-width > div{
         border-right:none;
         border-bottom:1px solid #eaeaea;
         padding:0px 0px 20px 0px !important;
-        max-width: unset;
+        max-width: none;
         margin-bottom: 20px;
     }
     .three-column > div:last-child{
         margin-bottom:0px;
     }
     .card-wrapper > div{
-        max-width: unset;
+        max-width: none;
         margin:0px 0px 15px 0px;
     }
     .blog-wrapper,.card-wrapper,.three-column,.simple-wrapper{
@@ -764,7 +764,7 @@ footer .container-max-width > div{
     .blog-wrapper > div >div{
         width:100% !important;
         padding:0px;
-        position: unset;
+        position: static;
     }
     .blog-wrapper img{
         margin-bottom:0px;
