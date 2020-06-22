@@ -237,7 +237,7 @@ span.gatsby-resp-image-wrapper{
 .main-nav >ul > li > a:hover{
     border-bottom:6px solid #006778;
 }
-.main-nav >ul > li > a:hover + ol {
+.main-nav >ul > li > a:hover + ol ,.main-nav>ul>li>ol:hover{
     display:block;
 }
 .main-nav > ul > li > ol > li ol{
@@ -328,6 +328,7 @@ span.gatsby-resp-image-wrapper{
     height: 50px;
     padding: 15px 30px;
     align-items: center;
+    border-radius:50px;
 }
 .primary-btn a{
     font-family: Arial;
@@ -383,6 +384,7 @@ span.gatsby-resp-image-wrapper{
     height: 50px;
     padding: 15px 30px;
     align-items: center;
+    border-radius:50px;
 }
 .secondary-btn a{
     font-family: Arial;
@@ -535,6 +537,7 @@ footer .container-max-width > div{
 .card-wrapper > div{
     max-width: 375px;
     display: flex;
+    border-radius: 0px 50px 50px 50px;
     justify-content: space-between;
     flex-direction: column;
     box-shadow: 0 5px 10px 0 rgba(0,0,0,.1);
@@ -616,6 +619,15 @@ footer .container-max-width > div{
 }
 .blog > div:first-child {
     margin-bottom:50px;
+}
+.blog h2{
+    margin:0px;
+}
+.blog-wrapper > div:first-child{
+    padding:0px 10px 0px 0px;
+}
+.blog-wrapper > div:last-child{
+    padding:0px 0px 0px 10px;
 }
 .footer-banner{
     background:#3b3b3b;
@@ -775,6 +787,9 @@ footer .container-max-width > div{
     }
     .blog{
         margin-bottom:30px;
+    }
+    .blog h2{
+        margin-bottom: 20px;
     }
 }
 @media only screen and (max-width: 580px){
